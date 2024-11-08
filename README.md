@@ -1,3 +1,5 @@
+Simple Shopping Website made using Python and Django
+Able to manage admin account, add an item to cart, able to add and change item data
  python manage.py runserver    to run the server
 
  ![image](https://github.com/user-attachments/assets/d8e32da1-8b9b-4191-b5ba-cf7e452e46bd)
